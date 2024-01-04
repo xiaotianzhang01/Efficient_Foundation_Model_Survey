@@ -14,6 +14,18 @@ Metadata:
 
 - arXiv: https://arxiv.org/
 
+# Filter by Categories
+
+> [!TIP]
+> We aggregate papers by their categories to make readers easily retrieval them.
+> Give it a try!
+
+- LLMs: [link](/llms)
+
+- Multimodal: [link](/multimodal)
+
+- Diffusion: [link](/diffusion)
+
 
 # Table of Content
 
