@@ -1,4 +1,6 @@
-# Resource-efficient Algorithms and Systems for Large Foundation Models: A Survey
+# Efficient Foundation Model Survey
+
+This repo contains the paper list for survey ['Resource-efficient Algorithms and Systems for Large Foundation Models: A Survey'](https://arxiv.org).
 
 References:
 
@@ -33,7 +35,7 @@ Metadata:
 
 - Impact of Tokenization on Language Models: An Analysis for Turkish. <ins>ACM TALLIP'22</ins>, [[Paper](https://arxiv.org/abs/2204.08832)]
 
-- xxx. <ins>arXiv</ins>, [[Paper](https://github.com)]] [[Code](https://github.com)]
+- xxx. <ins>arXiv</ins>, [[Paper](https://github.com)] [[Code](https://github.com)]
 
 ### Large Language Model
 
