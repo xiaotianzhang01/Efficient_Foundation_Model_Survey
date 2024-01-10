@@ -2,9 +2,7 @@
 
 References:
 
-
-- https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey 
-- https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
+- https://github.com/MobileLLM/Personal_LLM_Agents_Survey
 
 Metadata: 
 
@@ -14,10 +12,10 @@ Metadata:
 
 - arXiv: https://arxiv.org/
 
-# Filter by Categories
+## Filter by Categories
 
 > [!TIP]
-> We aggregate papers by their categories to make readers easily retrieval them.
+> We aggregate papers by their categories to make readers easily retrieve them.
 > Give it a try!
 
 - LLMs: [link](/llms)
@@ -27,21 +25,24 @@ Metadata:
 - Diffusion: [link](/diffusion)
 
 
-# Table of Content
+## Table of Content
 
-# Foundation Model Overview
+## Foundation Model Overview
 
-Attention is all you need. *NeurIPS'17*, [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Attention is all you need. <ins>NeurIPS'17</ins>, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)] [[Code](https://www.github.com)]
 
+- Impact of Tokenization on Language Models: An Analysis for Turkish. <ins>ACM TALLIP'22</ins>, [[Paper](https://arxiv.org/abs/2204.08832)]
 
-## Large Language Model
+- xxx. <ins>arXiv</ins>, [[Paper](https://github.com)]] [[Code](https://github.com)]
 
-## Vision Transformer
+### Large Language Model
 
-## Multimodal
+### Vision Transformer
 
-# Resource-efficient Architectures
+### Multimodal
 
-# Resource-efficient Algorithms
+## Resource-efficient Architectures
 
-# Resource-efficient Systems
+## Resource-efficient Algorithms
+
+## Resource-efficient Systems
