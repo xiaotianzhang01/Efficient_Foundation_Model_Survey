@@ -9,13 +9,13 @@ Large foundation models, including large language models (LLMs), vision transfor
 ## Scope and rationales
 
 The scope of this survey is mainly defined by following aspects.
-(i) We survey only algorithm and system innovations;
-we exclude a huge body of work at hardware design,  which is equally important but has been already wrapped up well~\cite{kim2023full}.
-(ii) The definition of resource in this survey is limited to mainly physical ones, including computing, memory, storage, bandwidth, etc;
+- We survey only algorithm and system innovations;
+we exclude a huge body of work at hardware design,  which is out of our expertise.
+- The definition of resource in this survey is limited to mainly physical ones, including computing, memory, storage, bandwidth, etc;
 we exclude training data (labels) and privacy that can also be regarded as resources;
-(iii) We mainly survey papers published on top-tier CS conferences, i.e., those included in CSRankings.
+- We mainly survey papers published on top-tier CS conferences, i.e., those included in CSRankings.
 We also manually pick related and potentially high-impact papers from arXiv.
-(iv) We mainly survey papers published after the year of 2020, since the innovation of AI is going fast with old knowledge and methods being overturned frequently.
+- We mainly survey papers published after the year of 2020, since the innovation of AI is going fast with old knowledge and methods being overturned frequently.
 
 ## References [todo]
 
@@ -40,7 +40,7 @@ We will actively maintain and update the survey as well as the github repo.
 - [Foundation Model Overview](#foundation-model-overview)
     - [Language Foundation Models](#language-foundation-models)
     - [Vision Foundation Models](#vision-foundation-models)
-    - [Multimodal Large FMs](#multimodal-large-fms)
+    - [Multimodal Foundation Models](#multimodal-large-fms)
 - [Resource-efficient Architectures](#resource-efficient-architectures)
     - [Efficient Attention](#efficient-attention)
     - [Dynamic Neural Network](#dynamic-neural-network)
@@ -100,7 +100,7 @@ We will actively maintain and update the survey as well as the github repo.
 - DINOv2: Learning Robust Visual Features without Supervision. ***arXiv***, [[Paper]](https://arxiv.org/abs/2005.12872)
 - Sequential Modeling Enables Scalable Learning for Large Vision Models. ***CVPR***, [[Paper]](https://arxiv.org/abs/2312.00785) [[Code]](https://github.com/ytongbai/LVM?tab=readme-ov-file)
 
-### Multimodal Large FMs
+### Multimodal Foundation Models
 
 - Learning transferable visual models from natural language supervision. ***ICML'21***, [[Paper]](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [[Code]](https://github.com/OpenAI/CLIP.
 )
