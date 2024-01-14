@@ -1,31 +1,39 @@
 # Efficient Foundation Model Survey
 
-This repo contains the paper list for survey ['Resource-efficient Algorithms and Systems for Large Foundation Models: A Survey'](https://arxiv.org).
+This repo contains the paper list for [A Survey of Resource-efficient Large Foundation Models](https://arxiv.org).
 
-References:
+## Abstract
 
-- https://github.com/MobileLLM/Personal_LLM_Agents_Survey
+Large foundation models, including large language models (LLMs), vision transformers (ViTs), diffusion, and LLM-based multimodal models, are revolutionizing the entire machine learning lifecycle, from training to deployment. However, the substantial advancements in versatility and performance these models offer come at a significant cost in terms of hardware resources. To support the growth of these large models in a scalable and environmentally sustainable way, there has been a considerable focus on developing resource-efficient strategies. This survey delves into the critical importance of such research, examining both algorithmic and systemic aspects. It offers a comprehensive analysis and valuable insights gleaned from existing literature, encompassing a broad array of topics from cutting-edge model architectures and training/serving algorithms to practical system designs and implementations. The goal of this survey is to provide an overarching understanding of how current approaches are tackling the resource challenges posed by large foundation models and to potentially inspire future breakthroughs in this field.
 
-Metadata: 
+## Scope and rationales
 
-- Authors: Mengwei Xu
+The scope of this survey is mainly defined by following aspects.
+(i) We survey only algorithm and system innovations;
+we exclude a huge body of work at hardware design,  which is equally important but has been already wrapped up well~\cite{kim2023full}.
+(ii) The definition of resource in this survey is limited to mainly physical ones, including computing, memory, storage, bandwidth, etc;
+we exclude training data (labels) and privacy that can also be regarded as resources;
+(iii) We mainly survey papers published on top-tier CS conferences, i.e., those included in CSRankings.
+We also manually pick related and potentially high-impact papers from arXiv.
+(iv) We mainly survey papers published after the year of 2020, since the innovation of AI is going fast with old knowledge and methods being overturned frequently.
 
-- Affiliation: Beijing University of Posts and Telecommunications
+## References [todo]
 
-- arXiv: https://arxiv.org/
+```
+@misc{xx,
+    title = {XX,
+    url = {XX},
+    author = {XXX},
+    month = {XX},
+    year = {XX}
+}
+```
 
-## Filter by Categories
+## Contribute
 
-> [!TIP]
-> We aggregate papers by their categories to make readers easily retrieve them.
-> Give it a try!
+If we leave out any important papers, put them in issue and we will update it in the next version.
 
-- LLMs: [link](/llms)
-
-- Multimodal: [link](/multimodal)
-
-- Diffusion: [link](/diffusion)
-
+We will actively maintain and update the survey as well as the github repo.
 
 ## Table of Content
 
