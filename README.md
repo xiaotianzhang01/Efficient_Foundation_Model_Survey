@@ -1,6 +1,6 @@
 # Efficient Foundation Model Survey
 
-This repo contains the paper list for [A Survey of Resource-efficient Large Foundation Models](https://arxiv.org).
+This repo contains the paper list and figures for [A Survey of Resource-efficient Large Foundation Models](https://arxiv.org).
 
 ## Abstract
 
@@ -31,7 +31,7 @@ We also manually pick related and potentially high-impact papers from arXiv.
 
 ## Contribute
 
-If we leave out any important papers, put them in issue and we will update it in the next version.
+If we leave out any important papers, tell us know in the issues and we will include them in the next version.
 
 We will actively maintain and update the survey as well as the github repo.
 
