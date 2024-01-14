@@ -29,6 +29,25 @@ Metadata:
 
 ## Table of Content
 
+- [Foundation Model Overview](#foundation-model-overview)
+    - [Language Foundation Models](#language-foundation-models)
+    - [Vision Foundation Models](#vision-foundation-models)
+    - [Multimodal Large FMs](#multimodal-large-fms)
+- [Resource-efficient Architectures](#resource-efficient-architectures)
+    - [Efficient Attention](#efficient-attention)
+    - [Dynamic Neural Network](#dynamic-neural-network)
+    - [Diffusion-specific Optimization](#diffusion-specific-optimization)
+    - [ViT-specific Optimizations](#vit-specific-optimizations)
+- [Resource-efficient Algorithms](#resource-efficient-algorithms)
+    - [Pre-training Algorithms](#pre-training-algorithms)
+    - [Finetuning Algorithms](#finetuning-algorithms)
+    - [Inference Algorithms](#inference-algorithms)
+    - [Model Compression](#model-compression)
+- [Resource-efficient Systems](#resource-efficient-systems)
+    - [Distributed Training](#distributed-training)
+    - [Federated Learning](#federated-learning)
+    - [Serving on Cloud](#serving-on-cloud)
+    - [Serving on Edge](#serving-on-edge)
 
 ## Foundation Model Overview
 
