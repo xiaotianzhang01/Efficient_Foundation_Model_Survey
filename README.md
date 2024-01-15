@@ -26,7 +26,7 @@ We also manually pick related and potentially high-impact papers from arXiv.
     author = {Xu, Mengwei and Yin, Wangsong and Cai, Dongqi and Yi, Rongjie
 and Xu, Daliang and Wang, Qipeng and Wu, Bingyang and Zhao, Yihao and Yang, Chen
 and Wang, Shihe and Zhang, Qiyang and Lu, Zhenyan and Zhang, Li and Wang, Shangguang
-and Li, Yuanchun, and Liu Yunxin and Jin, Xin andLiu, Xuanzhe},
+and Li, Yuanchun, and Liu Yunxin and Jin, Xin and Liu, Xuanzhe},
     month = {Feb.},
     year = {2024}
 }
@@ -34,9 +34,9 @@ and Li, Yuanchun, and Liu Yunxin and Jin, Xin andLiu, Xuanzhe},
 
 ## Contribute
 
-If we leave out any important papers, tell us know in the issues and we will include them in the next version.
+If we leave out any important papers, please let us know in the Issues and we will include them in the next version.
 
-We will actively maintain and update the survey as well as the github repo.
+We will actively maintain the survey and the github repo.
 
 ## Table of Content
 
