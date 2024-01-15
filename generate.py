@@ -65,7 +65,7 @@ def proc_single_section(secname, df):
         if conf == "URL":
             final_string = f"- {title}. [[URL]]({link})"
         else:
-            final_string = f"- {title}. ***{conf}***, [[Paper]]({link})"
+            final_string = f"- {title}. *[{conf}]* [[Paper]]({link})"
             if not pd.isna(code):
                 final_string += f" [[Code]]({code})"
         print(final_string)
