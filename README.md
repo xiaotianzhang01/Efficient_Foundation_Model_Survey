@@ -36,9 +36,9 @@ and Li, Yuanchun, and Liu Yunxin and Jin, Xin and Liu, Xuanzhe},
 
 If we leave out any important papers, please let us know in the Issues and we will include them in the next version.
 
-We will actively maintain the survey and the github repo.
+We will actively maintain the survey and the Github repo.
 
-## Table of Content
+## Table of Contents
 
 - [Foundation Model Overview](#foundation-model-overview)
     - [Language Foundation Models](#language-foundation-models)
