@@ -17,7 +17,7 @@ we exclude training data (labels) and privacy that can also be regarded as resou
 We also manually pick related and potentially high-impact papers from arXiv.
 - We mainly survey papers published after the year of 2020, since the innovation of AI is going fast with old knowledge and methods being overturned frequently.
 
-## References [todo]
+## References
 
 ```
 @misc{xx,
