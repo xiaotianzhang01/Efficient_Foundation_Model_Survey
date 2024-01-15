@@ -23,8 +23,10 @@ We also manually pick related and potentially high-impact papers from arXiv.
 @misc{xx,
     title = {A Survey of Resource-Efficient Large Foundation Models},
     url = {XX},
-    author = {Xu, Mengwei and Yin, Wangsong and Cai, Dongqi and Yi, Rongjie and Xu, Daliang and Wang, Qipeng and Wu, Bingyang and
-Zhao, Yihao and Yang, Chen and Wang, Shihe and Zhang, Qiyang and Lu, Zhenyan and Zhang, Li and Wang, Shangguang and Li, Yuanchun, and Liu Yunxin and Jin, Xin andLiu, Xuanzhe},
+    author = {Xu, Mengwei and Yin, Wangsong and Cai, Dongqi and Yi, Rongjie
+and Xu, Daliang and Wang, Qipeng and Wu, Bingyang and Zhao, Yihao and Yang, Chen
+and Wang, Shihe and Zhang, Qiyang and Lu, Zhenyan and Zhang, Li and Wang, Shangguang and Li,
+Yuanchun, and Liu Yunxin and Jin, Xin andLiu, Xuanzhe},
     month = {Feb.},
     year = {2024}
 }
