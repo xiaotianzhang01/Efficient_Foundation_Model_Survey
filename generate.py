@@ -42,8 +42,9 @@ def proc_single_section(secname, df):
         title = row["Paper title"]
         if pd.isna(title):
             continue
-        title = title.replace("\n", " ")
+        title = title.strip()
         title = title[:-1] if title.endswith(".") else title
+        title = title.replace("\n", " ")
         title = " ".join(title.split())
 
         # process conference
