@@ -1,6 +1,6 @@
-# Efficient Foundation Model Survey
+# Efficient LLM and Multimodal Foundation Model Survey
 
-This repo contains the paper list and figures for [A Survey of Resource-efficient Large Foundation Models](https://arxiv.org).
+This repo contains the paper list and figures for [A Survey of Resource-efficient LLM and Multimodal Foundation Models](https://arxiv.org/pdf/2401.08092.pdf).
 
 ## Abstract
 
@@ -20,17 +20,16 @@ We also manually pick related and potentially high-impact papers from arXiv.
 ![Screenshot](figs/example.png)
 
 
-## References
+## Citation
 
 ```
-@misc{xx,
-    title = {A Survey of Resource-Efficient Large Foundation Models},
-    url = {XX},
+@article{xu2024a,
+    title = {A Survey of Resource-efficient LLM and Multimodal Foundation Models},
     author = {Xu, Mengwei and Yin, Wangsong and Cai, Dongqi and Yi, Rongjie
-and Xu, Daliang and Wang, Qipeng and Wu, Bingyang and Zhao, Yihao and Yang, Chen
-and Wang, Shihe and Zhang, Qiyang and Lu, Zhenyan and Zhang, Li and Wang, Shangguang
-and Li, Yuanchun, and Liu Yunxin and Jin, Xin and Liu, Xuanzhe},
-    month = {Feb.},
+    and Xu, Daliang and Wang, Qipeng and Wu, Bingyang and Zhao, Yihao and Yang, Chen
+    and Wang, Shihe and Zhang, Qiyang and Lu, Zhenyan and Zhang, Li and Wang, Shangguang
+    and Li, Yuanchun, and Liu Yunxin and Jin, Xin and Liu, Xuanzhe},
+    journal={arXiv preprint arXiv:2401.08092},
     year = {2024}
 }
 ```
